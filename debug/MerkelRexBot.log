@@ -1,0 +1,8 @@
+﻿  Bot.cpp
+  MerkelMain.cpp
+C:\Users\User\source\repos\MerkelRexBot\MerkelRexBot\MerkelMain.cpp(107,38): warning C4101: 'e': unreferenced local variable
+C:\Users\User\source\repos\MerkelRexBot\MerkelRexBot\MerkelMain.cpp(144,38): warning C4101: 'e': unreferenced local variable
+C:\Users\User\source\repos\MerkelRexBot\MerkelRexBot\MerkelMain.cpp(186,34): warning C4101: 'e': unreferenced local variable
+  main.cpp
+  Generating Code...
+  MerkelRexBot.vcxproj -> C:\Users\User\source\repos\MerkelRexBot\Debug\MerkelRexBot.exe
